@@ -14,3 +14,6 @@ tar cvfzh Course_*.tar.gz *
 *2. Download excluding certain files or folders:*
 
 tar -czvf Course_4.tar.gz --exclude='Amazon_Unlocked_Mobile.csv' .
+
+## Certificate URL:
+https://www.coursera.org/account/accomplishments/specialization/TZ36A3W23DVF
